@@ -1,19 +1,3 @@
-// S C R I P T  O R I  B Y  @BochilGaming 🔭
-// M A D E  B Y  Letta - Sama 🐰  
-// Credits, jangan dihapus atau diubah!
-
-// - - THANKS TO - -
-// • Allah SWT
-// • Nurutomo
-// • Bochilgaming
-// • Rominaru
-// • Kannachann
-// • The.Sad.Boy01
-// • Rasel comel
-// • Xtreshe (Beban)
-// • Dll
-
-//[!] Jangan Dihapus, mending ditambahin 
 
 import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
@@ -45,35 +29,35 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // Kalo ga punya biarin aja, biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/OktaModz'
-global.sgh = 'https://github.com/ChataOfc'
-global.sgc = 'https://chat.whatsapp.com/JVQ60oSsvJ1CtscEwmtXzk'
+global.sig = 'https://www.instagram.com/rikiimam16'
+global.sgh = 'https://github.com/rikiimam16'
+global.sgc = 'https://chat.whatsapp.com/FR5HW2bZc830jDhnwZtrXh'
 global.sdc = " "
 global.snh = 'https://nhentai.net/g/365296/'
 //mwehehe:v
 
 /*============== PAYMENT ==============*/
-global.pdana = '085731947500'
-global.povo = '-'
-global.pgopay = '085731947500'
-global.ppulsa = '085731947500'
-global.ppulsa2 = '085749543572'
-global.psaweria = 'https://saweria.co.id/oktakc'
+global.pdana = '089512831977'
+global.povo = '089512831977'
+global.pgopay = '089512831977'
+global.ppulsa = '089512831977'
+global.ppulsa2 = '089512831977'
+global.psaweria = 'https://saweria.co.id/rikiimam16'
 global.fetch = (await import('node-fetch'))
 /*============== NOMOR ==============*/
-global.nomorbot = '6285749543572'
-global.nomorown = '6285731947500'
-global.namebot = 'YaeMiko'
-global.nameown = 'Okta'
+global.nomorbot = '6283845051018'
+global.nomorown = '6289512831977'
+global.namebot = 'RiksBotz'
+global.nameown = 'Rikssss'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285731947500', 'Okta🗿!', true]
+  ['6289512831977', 'Riksss🗿!', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
-global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.prems = ['6289512831977'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 /*============== API ==============*/
@@ -114,18 +98,18 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 YaeMiko-MD あ⁩ 」' //Main Watermark
-global.wm2 = 'Yaee🤤'
-global.wm3 = '⫹⫺ ʏᴀᴇᴍɪᴋᴏ'
+global.wm = '                「 RiksBotz あ⁩ 」' //Main Watermark
+global.wm2 = 'Riks🤤'
+global.wm3 = 'Riksss'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ'
+global.titlebot = 'RiksBotzz Whatsapp ʙᴏᴛ'
 global.author = global.wm
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/25677558edc61ac8609b6.jpg' //Main Thumbnail
-global.thumb2 = 'https://telegra.ph/file/f5f9587a03915b487c56f.jpg'
+global.thumb = 'https://telegra.ph/file/90a931648de597820bc08.jpg' //Main Thumbnail
+global.thumb2 = 'https://telegra.ph/file/edca4b513ddf29fd52c0e.jpg'
 global.thumbbc = 'https://telegra.ph/file/d7d3f1059f269224c69c0.jpg' //For broadcast
 global.giflogo = 'https://telegra.ph/file/6b4b92d088f95aa6a244b.mp4'
 
@@ -142,7 +126,7 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://telegra.ph/file/25677558edc61ac8609b6.jpg'
+global.thumbdoc = 'https://telegra.ph/file/edca4b513ddf29fd52c0e.jpg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
