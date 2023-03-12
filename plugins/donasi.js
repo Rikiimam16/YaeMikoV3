@@ -11,7 +11,7 @@ let handler = async (m, { conn }) => {
 │ ☘️ *Gopay:* [${global.pgopay}]
 └──···
 `.trim()
-  conn.sendButton(m.chat, caption, global.wm, 'https://telegra.ph/file/ea907c2c06bac1ac43d62.jpg', [`Menu`, '.menu'],m)
+  conn.sendButton(m.chat, caption, global.wm, 'https://telegra.ph/file/f5f9587a03915b487c56f.jpg', [`Menu`, '.menu'],m)
 }
 handler.help = ['donasi']
 handler.tags = ['info']
