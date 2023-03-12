@@ -233,20 +233,20 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
     },{
 	title: `${htki} MAIN ${htka}`,
 	rows: [
-	    {title: `⚡ ${pmenus} SPEED BOT`, rowId: ".ping", description: "Menampilkan kecepatan respon YaeMiko"},
-	    {title: `🙍 ${pmenus} OWNER BOT`, rowId: ".owner", description: "Menampilkan List owner YaeMiko"}, 
+	    {title: `⚡ ${pmenus} SPEED BOT`, rowId: ".ping", description: "Menampilkan kecepatan respon RiksBotz"},
+	    {title: `🙍 ${pmenus} OWNER BOT`, rowId: ".owner", description: "Menampilkan List owner RiksBotz"}, 
 	]
     },{
 	title: `${htki} SUPPORT ${htka}`,
 	rows: [
-	    {title: `🍀 ${pmenus} SEWA`, rowId: ".sewa", description: "Menampilkan list harga sewa YaeMiko"},
+	    {title: `🍀 ${pmenus} SEWA`, rowId: ".sewa", description: "Menampilkan list harga sewa RiksBotz"},
 	    {title: `🌟 ${pmenus} BUY PREMIUM`, rowId: ".premium", description: "Menampilkan list harga premium"},
-	    {title: `💹 ${pmenus} DONASI`, rowId: ".donasi", description: 'Support YaeMiko agar lebih fast respon'},
+	    {title: `💹 ${pmenus} DONASI`, rowId: ".donasi", description: 'Support RiksBotz agar lebih fast respon'},
 	]
 	},{
 	title: `${htki} MENU ${htka}`,
 	rows: [
-	    {title: `💬 ${pmenus} All`, rowId: ".? all", description: "Menampilkan Semua command YaeMiko"},
+	    {title: `💬 ${pmenus} All`, rowId: ".? all", description: "Menampilkan Semua command RiksBotz"},
 	    {title: `🌱 ${pmenus} Rpg`, rowId: ".? rpg", description: "Game Epic Rpg!"},
 	{title: `✨ ${pmenus} Exp`, rowId: ".? xp", description: "Ayo tingkatkan pangkat mu!"},
 	{title: `🎮 ${pmenus} Game`, rowId: ".? game", description: "Gamenya seru seru lho >-<"},
